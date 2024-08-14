@@ -1,8 +1,8 @@
 import openai
 import gradio
 
-openai.api_base = "https://api.pawan.krd/cosmosrp/v1"
-openai.api_key = "pk-pROKjkbQgvQMghKAWjjchiENXCaEEgzakjBUwjOlMdGiMCCS"
+openai.api_base = "add base"
+openai.api_key = "add your key"
 
 his = []
 first_message = True
