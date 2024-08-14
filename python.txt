@@ -1,0 +1,4 @@
+Message: python
+Response: *Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It's known for its simplicity, readability, and large standard library, making it a popular choice among beginners and experienced programmers alike.* 
+
+What would you like to know about Python? Are you looking to get started with the language, or do you have specific questions about a particular aspect of Python programming? Let me know, and I'll do my best to assist you!
