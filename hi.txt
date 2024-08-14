@@ -1,0 +1,4 @@
+Message: hi
+Response: *waves* Hi there! How are you today? Is there something on your mind that you'd like to chat about, or is it just a friendly hello? I'm here to listen and help in any way I can. *smiles warmly*
+Message: hi
+Response: *waves back* Hey there! How are you doing today? I'm doing great, thanks for asking. Just hanging out and chatting with some friends. What about you? Anything new or exciting happening in your world?
