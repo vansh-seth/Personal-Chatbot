@@ -44,8 +44,6 @@ This repository contains a simple personal chatbot built using OpenAI's GPT-3.5-
 1. **Start a conversation:** Type your message in the textbox and click "Send."
 2. **View conversation history:** The conversation history is stored in a `.txt` file with the filename based on the first message you typed.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - **[OpenAI](https://www.openai.com)** for providing the GPT-3.5-turbo model.
