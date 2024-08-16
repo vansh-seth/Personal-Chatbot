@@ -48,6 +48,3 @@ This repository contains a simple personal chatbot built using OpenAI's GPT-3.5-
 ## Acknowledgments
 - **[OpenAI](https://www.openai.com)** for providing the GPT-3.5-turbo model.
 - **[Gradio](https://www.gradio.app)** for creating an easy-to-use interface for machine learning models.
-```
-
-This `README.md` file provides a clear overview of the project, setup instructions, and usage details.
