@@ -1,5 +1,4 @@
 # Personal Chatbot
-
 This repository contains a simple personal chatbot built using OpenAI's GPT-3.5-turbo model and Gradio for the user interface. The chatbot allows for interactive conversations and saves the conversation history to a text file.
 
 ## Features
